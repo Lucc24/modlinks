@@ -6094,4 +6094,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 			<Author>Samihamer1</Author>
 		</Authors>
     	</Manifest>
+	<Manifest>
+		<Name>Lightbringer</Name><Description>Lightbringer replaces your rusty old nail with a deadly ranged lance of light, allowing you to take out enemies from a distance. Along with this new weapon, there are a bunch of new charms that augment your ranged and magical abilities!<Description>
+		https://github.com/TheodoreChristianRadu/HollowKnight.Lightbringer/tree/master
 </ModLinks>
